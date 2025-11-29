@@ -1,4 +1,5 @@
 # Data-Centric NLP: Detecting Bias and Stopping LLMs from Cheating to Achieve 89% Accuracy with 40% Less Data (Mitigating Hypothesis-Only Artifacts in SNLI via Hard-Subset Filtering)
+**Data-Centric NLP · Bias Mitigation · ELECTRA-Small · Hugging Face**
 
 ### 🚀 Project Overview
 Modern NLP models often "cheat" on benchmarks by exploiting statistical loopholes (dataset artifacts) instead of learning semantic reasoning. This project identifies these vulnerabilities in the SNLI dataset and implements a **Data-Centric AI pipeline** to fix them.
@@ -41,4 +42,4 @@ For a deep dive into the methodology and error analysis, please read the full re
 ---
 *Note: The core training code is omitted to comply with course academic integrity policies. This repository contains the custom filtering logic (`filter_dataset.py`) and the final analysis.*
 
-**Private full version** (code + notebooks + reproduction steps) available upon request.
+**Full private version** (complete code, notebooks, reproduction steps) available upon request during interview processes.
